@@ -1,2 +1,2 @@
-# goit-markup-hw-01
-GoIT FSon50 homework 1
+# goit-markup-hw-02
+GoIT FSon50 homework 2
