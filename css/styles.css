@@ -67,7 +67,9 @@ body {
 /* hero */
 .hero {
   background-color: var(--dark-grey-background);
+  text-align: center;
 }
+
 .hero-title {
   font-weight: 900;
   font-size: 44px;
